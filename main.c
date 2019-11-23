@@ -1,0 +1,4 @@
+fucntion main()
+{
+//sample code;
+}
