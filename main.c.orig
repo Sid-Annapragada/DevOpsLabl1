@@ -3,13 +3,15 @@ fucntion main()
 //sample code;
 }
 
+<<<<<<< HEAD
 function feature1()
 {
 //sample code;
 }
 
+=======
 function security()
 {
 //sample code;
 }
-
+>>>>>>> master
